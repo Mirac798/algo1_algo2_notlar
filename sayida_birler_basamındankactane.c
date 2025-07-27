@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//sayinin birler basamagından kac tane oldugunu bula program
 int main ()
 {
 	int buluncaksayi,sayi1,sayac;

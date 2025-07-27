@@ -31,7 +31,8 @@ int main(){
 	}	
 	printf("******************VERILER******************\n");
 	printf("yasi en buyuk olan ogrenci-->%s\n",ogr[sayac].isim);
-	printf("islem tamamlanmistir :)");
+	printf("islem tamamlanmistir :)\n");
+	printf("hata giderildi");
 	
 	return 0;
 }

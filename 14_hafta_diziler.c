@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//dizi islemleri
 int main()
 {
 	int basamaksayisi,userinput,userinput1,i;
